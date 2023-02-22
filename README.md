@@ -82,8 +82,8 @@
 </div>
 
 
-Python
+```Python
  Thank You for taking the time to view my GitHub Profile 😄
- 
+ ```
 
 
